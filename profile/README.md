@@ -89,7 +89,7 @@ We use continuous integration and continuous deployment (CI/CD) to automate test
 ## Folder Structure Guidelines
 Organize your project folders consistently using our folder structure guidelines.
 
-[Read the Folder Structure Guidelines](docs/folder_structure.md)
+[Read the Folder Structure Guidelines](docs/repo_structure.md)
 
 ## Style Guide
 Maintain code style and conventions with our comprehensive style guide.
