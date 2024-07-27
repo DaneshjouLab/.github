@@ -7,7 +7,7 @@ This document outlines the recommended structure for Python projects within our 
 
 ## General Structure
 The top-level directory of your project should look like this:
-
+```
 repo_name/
 ├── src/
 │   ├── module_name/
@@ -42,7 +42,7 @@ repo_name/
 ├── requirements.txt
 ├── setup.sh
 └── setup.py
-
+```
 ## Detailed Structure
 
 ### `src/`
@@ -53,6 +53,7 @@ This directory contains all the source code for your Python project.
 - **Naming Conventions**: Use lowercase names with underscores for directories and file names, following PEP 8 guidelines.
 
 Example:
+```
 src/
 ├── data_processing/
 │   ├── __init__.py
@@ -68,7 +69,7 @@ src/
     ├── __init__.py
     ├── helper_functions.py
     └── ...
-
+```
 ### `docs/`
 This directory contains all documentation related to the project.
 
@@ -77,6 +78,7 @@ This directory contains all documentation related to the project.
 - **User Guides**: The `user_guides/` directory should contain tutorials and how-to guides.
 
 Example:
+```
 docs/
 ├── index.md
 ├── api/
@@ -86,7 +88,7 @@ docs/
 └── user_guides/
     ├── getting_started.md
     └── advanced_usage.md
-
+```
 ### `tests/`
 This directory contains all the tests for your project.
 
@@ -115,6 +117,7 @@ Contains files for creating and managing Singularity containers.
 - **run_script.sh**: Script to run the Singularity container.
 
 Example:
+```
 containers/
 ├── podman/
 │   ├── Dockerfile
@@ -122,16 +125,17 @@ containers/
 └── singularity/
     ├── Singularity.def
     └── run_script.sh
-
+```
 ### `config/`
 This directory contains configuration files for the project which can include. 
 
 - **settings.ini**: Configuration settings for the project.
 
 Example:
+```
 config/
 ├── settings.ini
-
+```
 ### Root-Level Files
 
 - **`.gitignore`**: Specifies files and directories that should be ignored by Git.
