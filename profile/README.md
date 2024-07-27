@@ -1,15 +1,15 @@
 # Daneshjou Lab Stanford 
 
+## Table of Contents
+- [Introduction](#introduction) 
+- [Coding Guidelines](#coding-guidelines) _(Pending)_
+- [Documentation Guidelines](#documentation-guidelines) _(Pending)_
+- [Issue and Pull Request Templates](#issue-and-pull-request-templates) _(Pending)_
+- [CI/CD Workflows](#cicd-workflows) _(Pending)_
+- [Repo Structure Guidelines](#folder-structure-guidelines) _(Pending)_
+- [Style Guide](#style-guide) _(Pending)_
+- [How to Use](#how-to-use) _(Pending)_
 
-## Table of Contents-(awaiting updates to to docs)
-- [Introduction](#introduction)
-- [Coding Guidelines](#coding-guidelines)
-- [Documentation Guidelines](#documentation-guidelines)
-- [Issue and Pull Request Templates](#issue-and-pull-request-templates)
-- [CI/CD Workflows](#cicd-workflows)
-- [Folder Structure Guidelines](#folder-structure-guidelines)
-- [Style Guide](#style-guide)
-- [How to Use](#how-to-use)
 
 ## Re-imagining Healthcare with Technology
 
@@ -48,15 +48,6 @@ Our selected publications include:
 
 This repository contains organization-wide guidelines, templates, and best practices to ensure consistency and quality across all our projects.
 
-## Table of Contents
-- [Introduction](#introduction) 
-- [Coding Guidelines](#coding-guidelines) _(Pending)_
-- [Documentation Guidelines](#documentation-guidelines) _(Pending)_
-- [Issue and Pull Request Templates](#issue-and-pull-request-templates) _(Pending)_
-- [CI/CD Workflows](#cicd-workflows) _(Pending)_
-- [Folder Structure Guidelines](#folder-structure-guidelines) _(Pending)_
-- [Style Guide](#style-guide) _(Pending)_
-- [How to Use](#how-to-use) _(Pending)_
 
 ## Introduction
 This repository serves as the central location for all organizational guidelines and best practices. It is intended to help all team members maintain consistency and quality in our work.
@@ -86,10 +77,10 @@ We use continuous integration and continuous deployment (CI/CD) to automate test
 
 [Explore CI/CD Workflows](workflows/)
 
-## Folder Structure Guidelines
-Organize your project folders consistently using our folder structure guidelines.
+## Repo Structure Guidelines
+Organize your project folders consistently using our repo structure guidelines.
 
-[Read the Folder Structure Guidelines](docs/repo_structure.md)
+[Read the Repo Structure Guidelines](https://github.com/DaneshjouLab/.github/blob/main/docs/repo_structure.md)
 
 ## Style Guide
 Maintain code style and conventions with our comprehensive style guide.
