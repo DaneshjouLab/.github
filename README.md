@@ -86,10 +86,10 @@ We use continuous integration and continuous deployment (CI/CD) to automate test
 
 [Explore CI/CD Workflows](workflows/)
 
-## Folder Structure Guidelines
+## Repo Structure Guidelines
 Organize your project folders consistently using our folder structure guidelines.
 
-[Read the Folder Structure Guidelines](docs/repo_structure.md)
+[Read the Repo Structure Guidelines](https://github.com/DaneshjouLab/.github/blob/main/docs/repo_structure.md)
 
 ## Style Guide
 Maintain code style and conventions with our comprehensive style guide.
