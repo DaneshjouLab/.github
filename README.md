@@ -1,4 +1,4 @@
-# Daneshjou Lab Stanford base Github
+# Daneshjou Lab Stanford codebase Github
 
 ## Table of Contents
 - [Introduction](#introduction) 
