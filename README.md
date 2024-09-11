@@ -1,4 +1,9 @@
-# Daneshjou Lab Stanford codebase Github
+# .github
+
+This repository contains configuration files, templates, and guidelines that help maintain consistency and facilitate collaboration across our GitHub organization. It is intended to help all team members maintain consistency and quality in our work.
+
+
+# Daneshjou Lab Stanford base Github
 
 ## Table of Contents
 - [Introduction](#introduction) 
@@ -11,7 +16,7 @@
 - [How to Use](#how-to-use) _(Pending)_
 
 ## Introduction
-This repository serves as the central location for all organizational guidelines and best practices. It is intended to help all team members maintain consistency and quality in our work.
+This repository serves as the central location for all organizational guidelines and best practices.
 
 ## Coding Guidelines
 Our coding guidelines ensure that all code is readable, maintainable, and follows best practices.

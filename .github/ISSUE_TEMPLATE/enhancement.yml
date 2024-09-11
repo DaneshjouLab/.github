@@ -1,0 +1,47 @@
+#
+# This source file is part of the Daneshjou Lab projects
+#
+# SPDX-FileCopyrightText: 2024 Stanford University and the project authors (see AUTHORS.md)
+#
+# SPDX-License-Identifier: MIT
+#
+
+name: 💾 Enhancement
+description: Suggest an internal improvement for this project
+title: "Enhancement: Remove this title with a descriptive title."
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest an internal improvement for this project!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Please provide a description of the problem the improvement will address.
+      placeholder: A description of the problem the improvement will address.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+      description: Please provide a clear and concise description of the improvement and how it should work.
+      placeholder: A clear and concise description of the improvement and how it should work.
+    validations:
+      required: true
+  - type: textarea
+    id: additionalcontext
+    attributes:
+      label: Additional context
+      description: Please provide any additional context that might be relevant for your improvement.
+      placeholder: Any additional context that might be relevant for your improvement.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Coding Guidelines](https://github.com/DanehsjouLab/.github/blob/main/CODING_GUIDELINES.md)
+      options:
+        - label: I agree to follow this project's Coding Guidelines
+          required: true

@@ -58,8 +58,11 @@ SPDX-License-Identifier: MIT
 You must provide proper attribution to any external sources if your contribution is based on work from other projects.
 
 
-## Bug Reporting Policy
-We use GitHub issues to track work items. If you encounter a bug, it should be reported by opening a new issue.
+## Feature Proposition and Bug Reporting Policy
+We use GitHub Issues to track and manage work items efficiently.
+
+- Reporting Bugs: If you encounter a bug, please report it by opening a new issue and using the bug report template provided (ISSUE_TEMPLATE/bug_report.md).
+- Proposing New Features: If you have an idea for a new feature, open a new issue and select one of the relevant templates: feature request (ISSUE_TEMPLATE/feature_request.md) or enhancement (ISSUE_TEMPLATE/enhancement.md).
 
 
 ## Programming Language-Specific Setups
