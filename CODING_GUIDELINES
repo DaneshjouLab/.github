@@ -2,7 +2,7 @@
 
 This source file is part of the Daneshjou Lab projects
 
-SPDX-FileCopyrightText: 2024 Stanford University and the project authors (see CONTRIBUTORS.md)
+SPDX-FileCopyrightText: 2024 Stanford University and the project authors (see AUTHORS.md)
 
 SPDX-License-Identifier: MIT
 
@@ -34,7 +34,7 @@ Contributors are expected to follow established guidelines for code style, such 
 ## Repository Creation and Pull Requests
 For contributors starting a new project, you may create a new repository under the lab’s GitHub organization. Ensure that the project aligns with the lab's goals and discuss its scope with the core team before proceeding. All new repositories must adhere to the lab’s standards for documentation, code style, and testing.
 
-For contributors working on an existing repository, you must [fork the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and work on your changes there. Once your changes are ready, submit a pull request with a detailed description. Make sure to follow the [steps outlined for creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Include a detailed description and use the PR template provided (https://github.com/DaneshjouLAb/.github/blob/main/.github/pull_request_template.md). Request a review from a core team member and ensure that your PR is properly labeled and linked to any relevant issues or discussions.
+For contributors working on an existing repository, you must [fork the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and work on your changes there. Once your changes are ready, submit a pull request with a detailed description. Make sure to follow the [steps outlined for creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Include a detailed description and use the PR template provided (https://github.com/DaneshjouLab/.github/blob/main/.github/pull_request_template.md). Request a review from a core team member and ensure that your PR is properly labeled and linked to any relevant issues or discussions.
 
 
 ## Testing and CI/CD
@@ -50,7 +50,7 @@ Your contributions must comply with the licensing used by the repository. A prop
 ```
 This source file is part of the Daneshjou Labs
 
-SPDX-FileCopyrightText: 2024 Stanford University and the project authors (see CONTRIBUTORS.md)
+SPDX-FileCopyrightText: 2024 Stanford University and the project authors (see AUTHORS.md)
 
 SPDX-License-Identifier: MIT
 ```
