@@ -6,7 +6,6 @@ This repository contains configuration files, templates, and guidelines that hel
 # Daneshjou Lab Stanford base Github
 
 ## Table of Contents
-- [Introduction](#introduction) 
 - [Coding Guidelines](#coding-guidelines) _(Pending)_
 - [Documentation Guidelines](#documentation-guidelines) _(Pending)_
 - [Issue and Pull Request Templates](#issue-and-pull-request-templates) _(Pending)_
@@ -14,9 +13,6 @@ This repository contains configuration files, templates, and guidelines that hel
 - [Repo Structure Guidelines](#folder-structure-guidelines) _(Pending)_
 - [Style Guide](#style-guide) _(Pending)_
 - [How to Use](#how-to-use) _(Pending)_
-
-## Introduction
-This repository serves as the central location for all organizational guidelines and best practices.
 
 ## Coding Guidelines
 Our coding guidelines ensure that all code is readable, maintainable, and follows best practices.
@@ -31,9 +27,6 @@ Proper documentation is crucial for understanding and maintaining projects. Foll
 ## Issue and Pull Request Templates
 To maintain consistency in reporting issues and submitting pull requests, use our standardized templates.
 
-### Issue Templates
-- [Bug Report](ISSUE_TEMPLATE/bug_report.md)
-- [Feature Request](ISSUE_TEMPLATE/feature_request.md)
 
 ### Pull Request Template
 - [Pull Request Template](PULL_REQUEST_TEMPLATE.md)
