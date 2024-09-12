@@ -48,7 +48,6 @@ Our selected publications include:
 If you wish to contribute to the lab's codebase, please take a look at the [Coding Guidelines](https://github.com/DaneshjouLab/.github/CODING_GUIDELINES.md) for more information.
 
 
-
 ## Public Repositories
 Explore our public repositories on GitHub to see our latest projects and contributions:
 - **GitHub**: [Red Teaming Dataset](https://github.com/DaneshjouLab/Red-Teaming-Dataset)
