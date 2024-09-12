@@ -10,7 +10,8 @@ SPDX-License-Identifier: MIT
 
 # Contributing Guidelines for the DaneshjouLab's GitHub Organization
 
-Thank you for contributing to the lab's projects! Your contributions help us advance our research and maintain high-quality code. Below are the guidelines to ensure that contributions are made efficiently, with consistency and respect for our lab's values.
+Thank you for contributing to the lab's projects! Your contributions help us advance our research and maintain high-quality code. Below are the guidelines to ensure that contributions are made efficiently, with consistency and respect for our lab's values. Our mission is to provide readable, maintainable, and reproducible code.
+
 
 ## General Contribution Process
 We require all contributors to follow the [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow). Issues should be created to track bugs or document major decisions. The only way to propose changes to the codebase is by using pull requests.
@@ -29,6 +30,9 @@ Each contribution requires a [GitHub account](https://docs.github.com/en/get-sta
 
 ## Code Formatting and Style
 Contributors are expected to follow established guidelines for code style, such as [PEP 8](https://peps.python.org/pep-0008/) for Python. Descriptive and clear names should be used for variables, and snake_case should be preferred for naming functions and variables. Comments should be included where necessary, and comprehensive docstrings, following the [Google Style guide](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html), should be provided for all functions, classes, and modules.
+
+## Repo Structure Guidelines
+Organize your project folders consistently using our [repository structure guidelines](https://github.com/DaneshjouLab/.github/blob/main/docs/REPO_STRUCTURE.md).
 
 
 ## Repository Creation and Pull Requests
