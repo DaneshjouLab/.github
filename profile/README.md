@@ -45,7 +45,7 @@ Our selected publications include:
 
 # Daneshjou Lab GitHub Organization Guidelines
 
-If you wish to contribute to the lab's codebase, please take a look at the [Coding Guidelines](https://github.com/DaneshjouLab/.github/CODING_GUIDELINES.md) for more information.
+If you wish to contribute to the lab's codebase, please take a look at the [Coding Guidelines](https://github.com/DaneshjouLab/.github/docs/CODING_GUIDELINES.md) for more information.
 
 
 ## Public Repositories
