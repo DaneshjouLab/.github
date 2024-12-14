@@ -14,7 +14,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        nk you for taking the time to suggest a new feature for this project!
+        thank you for taking the time to suggest a new feature for this project!
   - type: textarea
     id: usecase
     attributes:
