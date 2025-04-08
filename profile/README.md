@@ -55,3 +55,6 @@ Explore our public repositories on GitHub to see our latest projects and contrib
 ---
 
 By centralizing our guidelines and best practices, we aim to enhance collaboration and maintain high standards across all our projects. Thank you for your cooperation!
+
+
+![StanfordDBDS](docs/images/dbds-logo.png)
