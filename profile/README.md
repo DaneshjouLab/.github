@@ -50,8 +50,12 @@ If you wish to contribute to the lab's codebase, please take a look at the [Codi
 
 ## Public Repositories
 Explore our public repositories on GitHub to see our latest projects and contributions:
-- **GitHub**: [Red Teaming Dataset](https://github.com/DaneshjouLab/Red-Teaming-Dataset)
 
+#### Datasets:
+- [Red Teaming Dataset](https://github.com/DaneshjouLab/Red-Teaming-Dataset)
+
+#### Tools:
+- [Medical Q&A Reviewer](https://github.com/arpa-h-care-llm/medical-qa-reviewer)
 ---
 
 By centralizing our guidelines and best practices, we aim to enhance collaboration and maintain high standards across all our projects. Thank you for your cooperation!
