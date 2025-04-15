@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: MIT
 #
 
-name: :dart: Enhancement
+name: "\U0001F3AF: Enhancement"
 description: Propose an internal improvement or optimization for the project
 title: "Enhancement: Provide a clear, descriptive title here."
 labels: ["enhancement"]
