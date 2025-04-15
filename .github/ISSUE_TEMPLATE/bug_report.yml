@@ -6,7 +6,8 @@
 # SPDX-License-Identifier: MIT
 #
 
-name: ":beetle: Bug report"
+name: "\U0001F41E BUG"
+
 description: Submit a bug report for this project
 title: "Bug report: Provide a descriptive title here."
 labels: ["bug"]
